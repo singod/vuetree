@@ -29,7 +29,7 @@
 
 ## 演示
 
-A [Demo](https://jiaxincui.github.io/vue-tree/dist/)
+A [Demo-Tree](https://singod.github.io/vuetree/dist/index.html)
 
 ## 安装
 
